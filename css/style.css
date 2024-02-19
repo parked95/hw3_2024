@@ -142,6 +142,7 @@ nav a:focus {
   grid-gap: 15px;
   align-items: center;
 
+
 }
 
 /* Step 5: Write selector/rule property to add the background image to the 
@@ -215,10 +216,8 @@ first div in the grid  and place it in the grid. */
 /* Step 8: Write the selector/rule property to style the .text-block class.*/
 
 .text-block{
-        display: flex;
         text-align: center;
         height: auto;
-        flex-wrap: wrap;
         align-content: center;
         justify-content: center;
       }
